@@ -1,0 +1,7 @@
+F:\Android\practice\Zadanie2Practice\obj\Debug\Zadanie2Practice.csproj.AssemblyReference.cache
+F:\Android\practice\Zadanie2Practice\obj\Debug\Zadanie2Practice.csproj.CoreCompileInputs.cache
+F:\Android\practice\Zadanie2Practice\bin\Debug\Zadanie2Practice.exe.config
+F:\Android\practice\Zadanie2Practice\bin\Debug\Zadanie2Practice.exe
+F:\Android\practice\Zadanie2Practice\bin\Debug\Zadanie2Practice.pdb
+F:\Android\practice\Zadanie2Practice\obj\Debug\Zadanie2Practice.exe
+F:\Android\practice\Zadanie2Practice\obj\Debug\Zadanie2Practice.pdb
