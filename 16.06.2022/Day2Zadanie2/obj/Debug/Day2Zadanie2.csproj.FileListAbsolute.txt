@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Day2Zadanie2\bin\Debug\Day2Zadanie2.exe.config
+C:\Users\user\source\repos\Day2Zadanie2\bin\Debug\Day2Zadanie2.exe
+C:\Users\user\source\repos\Day2Zadanie2\bin\Debug\Day2Zadanie2.pdb
+C:\Users\user\source\repos\Day2Zadanie2\obj\Debug\Day2Zadanie2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Day2Zadanie2\obj\Debug\Day2Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Day2Zadanie2\obj\Debug\Day2Zadanie2.exe
+C:\Users\user\source\repos\Day2Zadanie2\obj\Debug\Day2Zadanie2.pdb
+E:\Android\practice\Day2Zadanie2\bin\Debug\Day2Zadanie2.exe.config
+E:\Android\practice\Day2Zadanie2\bin\Debug\Day2Zadanie2.exe
+E:\Android\practice\Day2Zadanie2\bin\Debug\Day2Zadanie2.pdb
+E:\Android\practice\Day2Zadanie2\obj\Debug\Day2Zadanie2.csproj.AssemblyReference.cache
+E:\Android\practice\Day2Zadanie2\obj\Debug\Day2Zadanie2.csproj.CoreCompileInputs.cache
+E:\Android\practice\Day2Zadanie2\obj\Debug\Day2Zadanie2.exe
+E:\Android\practice\Day2Zadanie2\obj\Debug\Day2Zadanie2.pdb
