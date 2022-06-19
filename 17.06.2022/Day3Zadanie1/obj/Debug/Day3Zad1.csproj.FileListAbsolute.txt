@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Day3Zad1\bin\Debug\Day3Zad1.exe.config
+C:\Users\user\source\repos\Day3Zad1\bin\Debug\Day3Zad1.exe
+C:\Users\user\source\repos\Day3Zad1\bin\Debug\Day3Zad1.pdb
+C:\Users\user\source\repos\Day3Zad1\obj\Debug\Day3Zad1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Day3Zad1\obj\Debug\Day3Zad1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Day3Zad1\obj\Debug\Day3Zad1.exe
+C:\Users\user\source\repos\Day3Zad1\obj\Debug\Day3Zad1.pdb
+E:\Android\practice\Day3Zad1\bin\Debug\Day3Zad1.exe.config
+E:\Android\practice\Day3Zad1\bin\Debug\Day3Zad1.exe
+E:\Android\practice\Day3Zad1\bin\Debug\Day3Zad1.pdb
+E:\Android\practice\Day3Zad1\obj\Debug\Day3Zad1.csproj.AssemblyReference.cache
+E:\Android\practice\Day3Zad1\obj\Debug\Day3Zad1.csproj.CoreCompileInputs.cache
+E:\Android\practice\Day3Zad1\obj\Debug\Day3Zad1.exe
+E:\Android\practice\Day3Zad1\obj\Debug\Day3Zad1.pdb

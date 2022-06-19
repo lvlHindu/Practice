@@ -1,0 +1,7 @@
+E:\Android\practice\Day3Zad1\bin\Debug\Day3Zad1.exe.config
+E:\Android\practice\Day3Zad1\bin\Debug\Day3Zad1.exe
+E:\Android\practice\Day3Zad1\bin\Debug\Day3Zad1.pdb
+E:\Android\practice\Day3Zad1\obj\Debug\Day3Zadanie1.csproj.AssemblyReference.cache
+E:\Android\practice\Day3Zad1\obj\Debug\Day3Zadanie1.csproj.CoreCompileInputs.cache
+E:\Android\practice\Day3Zad1\obj\Debug\Day3Zad1.exe
+E:\Android\practice\Day3Zad1\obj\Debug\Day3Zad1.pdb
