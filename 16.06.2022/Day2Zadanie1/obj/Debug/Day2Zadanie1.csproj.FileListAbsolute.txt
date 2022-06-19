@@ -1,0 +1,7 @@
+C:\Users\Danila\source\repos\Day2Zadanie1\bin\Debug\Day2Zadanie1.exe.config
+C:\Users\Danila\source\repos\Day2Zadanie1\bin\Debug\Day2Zadanie1.exe
+C:\Users\Danila\source\repos\Day2Zadanie1\bin\Debug\Day2Zadanie1.pdb
+C:\Users\Danila\source\repos\Day2Zadanie1\obj\Debug\Day2Zadanie1.csproj.AssemblyReference.cache
+C:\Users\Danila\source\repos\Day2Zadanie1\obj\Debug\Day2Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Danila\source\repos\Day2Zadanie1\obj\Debug\Day2Zadanie1.exe
+C:\Users\Danila\source\repos\Day2Zadanie1\obj\Debug\Day2Zadanie1.pdb
