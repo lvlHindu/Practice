@@ -1,0 +1,7 @@
+C:\Users\Danila\source\repos\Zadanie5Practice\bin\Debug\Zadanie5Practice.exe.config
+C:\Users\Danila\source\repos\Zadanie5Practice\bin\Debug\Zadanie5Practice.exe
+C:\Users\Danila\source\repos\Zadanie5Practice\bin\Debug\Zadanie5Practice.pdb
+C:\Users\Danila\source\repos\Zadanie5Practice\obj\Debug\Zadanie5Practice.csproj.AssemblyReference.cache
+C:\Users\Danila\source\repos\Zadanie5Practice\obj\Debug\Zadanie5Practice.csproj.CoreCompileInputs.cache
+C:\Users\Danila\source\repos\Zadanie5Practice\obj\Debug\Zadanie5Practice.exe
+C:\Users\Danila\source\repos\Zadanie5Practice\obj\Debug\Zadanie5Practice.pdb
