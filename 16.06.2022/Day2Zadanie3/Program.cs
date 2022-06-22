@@ -51,6 +51,7 @@ namespace Day2Zadanie3
             {
                 Console.Write(n + " ");
             }
+            Console.ReadKey();
         }
     }
 }
