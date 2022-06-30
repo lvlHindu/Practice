@@ -1,0 +1,10 @@
+C:\Users\Danila\source\repos\Day4Zadanie1\bin\Debug\Day4Zadanie1.exe.config
+C:\Users\Danila\source\repos\Day4Zadanie1\bin\Debug\Day4Zadanie1.exe
+C:\Users\Danila\source\repos\Day4Zadanie1\bin\Debug\Day4Zadanie1.pdb
+C:\Users\Danila\source\repos\Day4Zadanie1\obj\Debug\Day4Zadanie1.csproj.AssemblyReference.cache
+C:\Users\Danila\source\repos\Day4Zadanie1\obj\Debug\Day4Zadanie1.Form1.resources
+C:\Users\Danila\source\repos\Day4Zadanie1\obj\Debug\Day4Zadanie1.Properties.Resources.resources
+C:\Users\Danila\source\repos\Day4Zadanie1\obj\Debug\Day4Zadanie1.csproj.GenerateResource.cache
+C:\Users\Danila\source\repos\Day4Zadanie1\obj\Debug\Day4Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Danila\source\repos\Day4Zadanie1\obj\Debug\Day4Zadanie1.exe
+C:\Users\Danila\source\repos\Day4Zadanie1\obj\Debug\Day4Zadanie1.pdb
