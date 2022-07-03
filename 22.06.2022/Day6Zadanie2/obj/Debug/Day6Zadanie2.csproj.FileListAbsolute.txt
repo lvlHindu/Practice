@@ -1,0 +1,7 @@
+C:\Users\Danila\Desktop\Day6Zadanie2\bin\Debug\22.06.22.exe.config
+C:\Users\Danila\Desktop\Day6Zadanie2\bin\Debug\22.06.22.exe
+C:\Users\Danila\Desktop\Day6Zadanie2\bin\Debug\22.06.22.pdb
+C:\Users\Danila\Desktop\Day6Zadanie2\obj\Debug\Day6Zadanie2.csproj.AssemblyReference.cache
+C:\Users\Danila\Desktop\Day6Zadanie2\obj\Debug\Day6Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Danila\Desktop\Day6Zadanie2\obj\Debug\22.06.22.exe
+C:\Users\Danila\Desktop\Day6Zadanie2\obj\Debug\22.06.22.pdb
